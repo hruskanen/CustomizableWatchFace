@@ -110,20 +110,20 @@
         <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="147" pc="268440493" symbol="addData"/>
         <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="148" pc="268440554" symbol="addData"/>
         <entry filename="Rez" id="25" lineNum="15" pc="268440575" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="17" pc="268440587" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="18" pc="268440611" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="19" pc="268440744" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="20" pc="268440877" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="21" pc="268441010" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="22" pc="268441143" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="23" pc="268441276" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="24" pc="268441409" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="25" pc="268441542" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="26" pc="268441675" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="27" pc="268441808" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="28" pc="268441941" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="29" pc="268442074" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="31" pc="268442207" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="18" pc="268440587" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="19" pc="268440611" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="20" pc="268440744" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="21" pc="268440877" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="22" pc="268441010" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" pc="268441143" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="24" pc="268441276" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="25" pc="268441409" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="26" pc="268441542" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="27" pc="268441675" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="28" pc="268441808" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="29" pc="268441941" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="30" pc="268442074" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="32" pc="268442207" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
@@ -230,11 +230,11 @@
         <entry endPc="268442344" name="rez_cmp_local_text_HexTwoLabel" stackId="6" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_DayLabel" stackId="12" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_HexThreeDataLabel" stackId="10" startPc="268440587"/>
+        <entry endPc="268442344" name="rez_cmp_local_custom_drawable_18643255597807723851" stackId="2" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_DayOfWeekLabel" stackId="13" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_MonthLabel" stackId="11" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_BatteryLabel" stackId="14" startPc="268440587"/>
         <entry endPc="268442344" name="rez_cmp_local_text_MinuteLabel" stackId="4" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_custom_drawable_46235778336312931479" stackId="2" startPc="268440587"/>
         <entry endPc="268442345" name="dc" stackId="1" startPc="268440575"/>
     </localVars>
     <annotations/>

@@ -1,27 +1,27 @@
 <properties>
 
     <property id="BackgroundColor" type="string">0</property>
-    <property id="HourColor" type="string">16747776</property>
-    <property id="MinuteColor" type="string">43769</property>
+    <property id="HourColor" type="string">6500774</property>
+    <property id="MinuteColor" type="string">16777215</property>
     <property id="UseMilitaryFormat" type="boolean">false</property>
-    <property id="HexOneColor" type="string">7088127</property>
-    <property id="HexTwoColor" type="string">7136511</property>
-    <property id="HexThreeColor" type="string">8136280</property>
+    <property id="HexOneColor" type="string">6500774</property>
+    <property id="HexTwoColor" type="string">16777215</property>
+    <property id="HexThreeColor" type="string">6500774</property>
     
-    <property id="HexOneDataColor" type="string">7588127</property>
-    <property id="HexTwoDataColor" type="string">7836511</property>
-    <property id="HexThreeDataColor" type="string">8936280</property>
+    <property id="HexOneDataColor" type="string">16777215</property>
+    <property id="HexTwoDataColor" type="string">6500774</property>
+    <property id="HexThreeDataColor" type="string">16777215</property>
     
-    <property id="MonthColor" type="string">4836511</property>
-    <property id="DayColor" type="string">7936280</property>
-    <property id="DayOfWeekColor" type="string">2936280</property>
+    <property id="MonthColor" type="string">6500774</property>
+    <property id="DayColor" type="string">16777215</property>
+    <property id="DayOfWeekColor" type="string">16777215</property>
     
-    <property id="DayOfWeekColor" type="string">2936280</property>
+    <property id="DayOfWeekColor" type="string">16777215</property>
     
     <property id="HexOneData" type="number">1</property>
     <property id="HexTwoData" type="number">3</property>
     <property id="HexThreeData" type="number">2</property>
     
-    <property id="BatteryColor" type="string">264564</property>
+    <property id="BatteryColor" type="string">6500774</property>
 
 </properties>
