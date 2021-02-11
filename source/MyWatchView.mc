@@ -67,22 +67,22 @@ class MyWatchView extends WatchUi.WatchFace {
         viewDayOfWeek.setColor(Application.getApp().getProperty("DayOfWeekColor").toNumber());
         viewDayOfWeek.setText(dayAbr[today.day_of_week-1]);
         
+		//var stats = System.getSystemStats();
+		//var pwr = stats.battery;
+		//var batStr = Lang.format( "$1$%", [ pwr.format( "%2d" ) ] );
+		var pwr = System.getSystemStats().battery;
+		var batStr = Lang.format( "$1$%", [ pwr.format( "%2d" ) ] );
+		var viewPower = View.findDrawableById("BatteryLabel");
+        viewPower.setColor(Application.getApp().getProperty("BatteryColor").toNumber());
+        viewPower.setText(batStr);
+		
 
-        //addData(0, ActivityMonitor.getInfo().steps);
-        //addData(1, System.getDeviceSettings().notificationCount);
-        //addData(2, Activity.getActivityInfo().calories);
-        //ActivityMonitor.getInfo().steps
-        //System.getDeviceSettings().notificationCount
-        //Activity.getActivityInfo().currentHeartRate
-        //Activity.getActivityInfo().calories
         
         var hexDataSettings = [Application.getApp().getProperty("HexOneData"), Application.getApp().getProperty("HexTwoData"), Application.getApp().getProperty("HexThreeData")];
 		for (var i = 0; i < 3; i++) {
 			addData(i, hexDataSettings[i]);
 		}
         
-        
-		
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
         System.println( "1 - onUpdate" );

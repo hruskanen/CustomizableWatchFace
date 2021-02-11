@@ -26,4 +26,5 @@
     <string id="currentHeartRate">Heart Rate</string>
     <string id="calories">Calories</string>    
 
+	<string id="BatteryColorTitle">Battery Color</string>
 </strings>

@@ -21,5 +21,7 @@
     <property id="HexOneData" type="number">1</property>
     <property id="HexTwoData" type="number">3</property>
     <property id="HexThreeData" type="number">2</property>
+    
+    <property id="BatteryColor" type="string">264564</property>
 
 </properties>

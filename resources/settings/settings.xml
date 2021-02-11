@@ -80,4 +80,8 @@
 		</settingConfig>
 	</setting>
 
+	<setting propertyKey="@Properties.BatteryColor" title="@Strings.BatteryColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
 </settings>
