@@ -222,8 +222,8 @@
         <entry endPc="268442038" name="rez_cmp_local_text_HexThreeDataLabel" stackId="10" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_DayOfWeekLabel" stackId="13" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_MonthLabel" stackId="11" startPc="268440424"/>
+        <entry endPc="268442038" name="rez_cmp_local_custom_drawable_21468479661807539153" stackId="2" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_MinuteLabel" stackId="4" startPc="268440424"/>
-        <entry endPc="268442038" name="rez_cmp_local_custom_drawable_15292881612013084720" stackId="2" startPc="268440424"/>
         <entry endPc="268442039" name="dc" stackId="1" startPc="268440412"/>
     </localVars>
     <annotations/>
