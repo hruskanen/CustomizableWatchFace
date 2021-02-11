@@ -1,0 +1,83 @@
+<settings>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.HourColor" title="@Strings.HourColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.MinuteColor" title="@Strings.MinuteColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexOneColor" title="@Strings.HexOneColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexTwoColor" title="@Strings.HexTwoColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexThreeColor" title="@Strings.HexThreeColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexOneDataColor" title="@Strings.HexOneDataColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexTwoDataColor" title="@Strings.HexTwoDataColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexThreeDataColor" title="@Strings.HexThreeDataColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    
+    <setting propertyKey="@Properties.MonthColor" title="@Strings.MonthColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.DayColor" title="@Strings.DayColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.DayOfWeekColor" title="@Strings.DayOfWeekColorTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.HexOneData" title="@Strings.HexOneDataTitle">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.none</listEntry>
+			<listEntry value="1">@Strings.steps</listEntry>
+			<listEntry value="2">@Strings.notificationCount</listEntry>
+			<listEntry value="3">@Strings.currentHeartRate</listEntry>
+			<listEntry value="4">@Strings.calories</listEntry>
+		</settingConfig>
+	</setting>
+	<setting propertyKey="@Properties.HexTwoData" title="@Strings.HexTwoDataTitle">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.none</listEntry>
+			<listEntry value="1">@Strings.steps</listEntry>
+			<listEntry value="2">@Strings.notificationCount</listEntry>
+			<listEntry value="3">@Strings.currentHeartRate</listEntry>
+			<listEntry value="4">@Strings.calories</listEntry>
+		</settingConfig>
+	</setting>
+	<setting propertyKey="@Properties.HexThreeData" title="@Strings.HexThreeDataTitle">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.none</listEntry>
+			<listEntry value="1">@Strings.steps</listEntry>
+			<listEntry value="2">@Strings.notificationCount</listEntry>
+			<listEntry value="3">@Strings.currentHeartRate</listEntry>
+			<listEntry value="4">@Strings.calories</listEntry>
+		</settingConfig>
+	</setting>
+
+</settings>

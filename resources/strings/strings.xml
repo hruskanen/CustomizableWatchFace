@@ -1,0 +1,29 @@
+<strings>
+
+    <string id="AppName">MyWatch</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="HourColorTitle">Hour Color</string>
+    <string id="MinuteColorTitle">Minute Color</string>
+    <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
+    <string id="HexOneColorTitle">Hex One Color</string>
+    <string id="HexTwoColorTitle">Hex Two Color</string>
+    <string id="HexThreeColorTitle">Hex Three Color</string>
+    <string id="HexOneDataColorTitle">Hex One Data Color</string>
+    <string id="HexTwoDataColorTitle">Hex Two Data Color</string>
+    <string id="HexThreeDataColorTitle">Hex Three Data Color</string>
+    <string id="MonthColorTitle">Month Color</string>
+    <string id="DayColorTitle">Day Color</string>
+    <string id="DayOfWeekColorTitle">Day Of Week Color</string>
+    
+    <string id="HexOneDataTitle">Hex One Data</string>
+    <string id="HexTwoDataTitle">Hex Two Data</string>
+    <string id="HexThreeDataTitle">Hex Three Data</string>
+    
+    <string id="none">No Data</string>
+    <string id="steps">Steps</string>
+    <string id="notificationCount">Notification Count</string>
+    <string id="currentHeartRate">Heart Rate</string>
+    <string id="calories">Calories</string>    
+
+</strings>
