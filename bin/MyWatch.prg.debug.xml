@@ -105,19 +105,19 @@
         <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="147" pc="268440330" symbol="addData"/>
         <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="148" pc="268440391" symbol="addData"/>
         <entry filename="Rez" id="25" lineNum="15" pc="268440412" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="18" pc="268440424" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="19" pc="268440448" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="20" pc="268440581" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="21" pc="268440714" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="22" pc="268440847" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="23" pc="268440980" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="24" pc="268441113" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="25" pc="268441246" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="26" pc="268441379" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="27" pc="268441512" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="28" pc="268441645" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="29" pc="268441778" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="31" pc="268441911" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="17" pc="268440424" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="18" pc="268440448" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="19" pc="268440581" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="20" pc="268440714" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="21" pc="268440847" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="22" pc="268440980" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" pc="268441113" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="24" pc="268441246" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="25" pc="268441379" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="26" pc="268441512" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="27" pc="268441645" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="28" pc="268441778" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="30" pc="268441911" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
@@ -222,8 +222,8 @@
         <entry endPc="268442038" name="rez_cmp_local_text_HexThreeDataLabel" stackId="10" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_DayOfWeekLabel" stackId="13" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_MonthLabel" stackId="11" startPc="268440424"/>
-        <entry endPc="268442038" name="rez_cmp_local_custom_drawable_21468479661807539153" stackId="2" startPc="268440424"/>
         <entry endPc="268442038" name="rez_cmp_local_text_MinuteLabel" stackId="4" startPc="268440424"/>
+        <entry endPc="268442038" name="rez_cmp_local_custom_drawable_44520257255363244226" stackId="2" startPc="268440424"/>
         <entry endPc="268442039" name="dc" stackId="1" startPc="268440412"/>
     </localVars>
     <annotations/>

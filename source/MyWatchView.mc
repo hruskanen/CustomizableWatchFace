@@ -104,13 +104,13 @@ class MyWatchView extends WatchUi.WatchFace {
     
     function addData(hex, dataChoice) {
     	//var data = dataThing;
-    	var dataTypes = [0, ActivityMonitor.getInfo().steps, System.getDeviceSettings().notificationCount, Activity.getActivityInfo().currentHeartRate, Activity.getActivityInfo().calories];
+    	var dataTypes = ["NONE", ActivityMonitor.getInfo().steps, System.getDeviceSettings().notificationCount, Activity.getActivityInfo().currentHeartRate, Activity.getActivityInfo().calories];
 		var dataThing = dataTypes[dataChoice];
     	var viewThing = [View.findDrawableById("HexOneLabel"), View.findDrawableById("HexTwoLabel"), View.findDrawableById("HexThreeLabel")];
     	var thingColors = [Application.getApp().getProperty("HexOneDataColor").toNumber(), Application.getApp().getProperty("HexTwoDataColor").toNumber(), Application.getApp().getProperty("HexThreeDataColor").toNumber()];
         viewThing[hex].setColor(thingColors[hex]);
         
-        if ( dataThing == 0 ){
+        if ( dataThing == "NONE" ){
 			viewThing[hex].setFont(Graphics.FONT_NUMBER_HOT);
 	        viewThing[hex].setLocation(80 + hexSpacing[hex][0], 180 + hexSpacing[hex][1]);
 	        viewThing[hex].setText(" ");
