@@ -1,311 +1,412 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
+    <manifest filename="C:\Users\hrusk\Documents\Programming\IQ\MyWatch\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="3" lineNum="10" pc="268435481" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="13" pc="268435502" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="15" pc="268435506" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="16" pc="268435568" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="18" pc="268435580" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="19" pc="268435642" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="21" pc="268436220" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="23" pc="268436232" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="24" pc="268436294" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="26" pc="268436872" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="28" pc="268436884" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="29" pc="268436946" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="4" lineNum="31" pc="268437524" symbol="draw"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="6" lineNum="6" pc="268437537" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="6" lineNum="7" pc="268437541" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="7" lineNum="11" pc="268437560" symbol="onStart"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="8" lineNum="15" pc="268437565" symbol="onStop"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="9" lineNum="19" pc="268437570" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="9" lineNum="20" pc="268437574" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="10" lineNum="24" pc="268437612" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="10" lineNum="25" pc="268437616" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="12" lineNum="14" pc="268437633" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="12" lineNum="15" pc="268437637" symbol="initialize"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="13" lineNum="19" pc="268437656" symbol="onLayout"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="13" lineNum="20" pc="268437660" symbol="onLayout"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="14" lineNum="26" pc="268437698" symbol="onShow"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="30" pc="268437703" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="32" pc="268437707" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="33" pc="268437714" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="34" pc="268437731" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="35" pc="268437741" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="36" pc="268437788" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="40" pc="268437801" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="41" pc="268437819" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="45" pc="268437843" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="46" pc="268437867" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="47" pc="268437917" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="49" pc="268437940" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="50" pc="268437964" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="51" pc="268438014" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="54" pc="268438037" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="56" pc="268438081" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="57" pc="268438245" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="58" pc="268438269" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="59" pc="268438319" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="61" pc="268438348" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="62" pc="268438372" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="63" pc="268438422" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="65" pc="268438451" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="66" pc="268438550" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="67" pc="268438574" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="68" pc="268438624" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="73" pc="268438653" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="74" pc="268438676" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="75" pc="268438728" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="76" pc="268438752" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="77" pc="268438802" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="81" pc="268438816" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="82" pc="268438935" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="83" pc="268438953" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="87" pc="268438985" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="88" pc="268439005" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="16" lineNum="94" pc="268439027" symbol="onHide"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="17" lineNum="98" pc="268439032" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="18" lineNum="102" pc="268439037" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="105" pc="268439042" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="107" pc="268439046" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="108" pc="268439187" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="109" pc="268439194" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="110" pc="268439292" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="111" pc="268439438" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="113" pc="268439458" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="114" pc="268439469" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="115" pc="268439496" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="116" pc="268439557" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="117" pc="268439580" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="118" pc="268439587" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="119" pc="268439614" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="120" pc="268439675" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="121" pc="268439698" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="122" pc="268439709" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="123" pc="268439736" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="124" pc="268439797" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="125" pc="268439826" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="126" pc="268439837" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="127" pc="268439864" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="128" pc="268439925" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="129" pc="268439954" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="130" pc="268439965" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="131" pc="268439992" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="132" pc="268440053" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="133" pc="268440082" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="134" pc="268440093" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="135" pc="268440120" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="136" pc="268440181" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="137" pc="268440210" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="138" pc="268440221" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="139" pc="268440248" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="140" pc="268440309" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="141" pc="268440338" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="142" pc="268440349" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="143" pc="268440376" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="144" pc="268440437" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="146" pc="268440466" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="147" pc="268440493" symbol="addData"/>
-        <entry filename="C:\\Users\\hrusk\\OneDrive\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="148" pc="268440554" symbol="addData"/>
-        <entry filename="Rez" id="25" lineNum="15" pc="268440575" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="18" pc="268440587" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="19" pc="268440611" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="20" pc="268440744" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="21" pc="268440877" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="22" pc="268441010" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="23" pc="268441143" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="24" pc="268441276" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="25" pc="268441409" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="26" pc="268441542" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="27" pc="268441675" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="28" pc="268441808" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="29" pc="268441941" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="30" pc="268442074" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="32" pc="268442207" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="1" lineNum="6" parent="globals/MyWatchApp" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="1" lineNum="7" parent="globals/MyWatchApp" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="2" lineNum="11" parent="globals/MyWatchApp" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="3" lineNum="15" parent="globals/MyWatchApp" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="4" lineNum="19" parent="globals/MyWatchApp" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="4" lineNum="20" parent="globals/MyWatchApp" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="5" lineNum="24" parent="globals/MyWatchApp" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="5" lineNum="25" parent="globals/MyWatchApp" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="6" lineNum="4" parent="globals/MyWatchApp" pc="268443307" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchApp.mc" id="6" lineNum="4" parent="globals/MyWatchApp" pc="268443307" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="8" lineNum="7" parent="globals/Background" pc="268435552" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="8" lineNum="8" parent="globals/Background" pc="268435556" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="8" lineNum="10" parent="globals/Background" pc="268435577" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="13" parent="globals/Background" pc="268435598" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="14" parent="globals/Background" pc="268435602" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="15" parent="globals/Background" pc="268435615" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="18" parent="globals/Background" pc="268435628" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="19" parent="globals/Background" pc="268435690" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="21" parent="globals/Background" pc="268435702" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="22" parent="globals/Background" pc="268435764" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="24" parent="globals/Background" pc="268436426" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="26" parent="globals/Background" pc="268436438" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="27" parent="globals/Background" pc="268436500" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="29" parent="globals/Background" pc="268437162" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="31" parent="globals/Background" pc="268437174" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="32" parent="globals/Background" pc="268437236" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="9" lineNum="34" parent="globals/Background" pc="268437898" symbol="draw"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="10" lineNum="5" parent="globals/Background" pc="268443105" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchBackground.mc" id="10" lineNum="5" parent="globals/Background" pc="268443105" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="12" lineNum="14" parent="globals/MyWatchView" pc="268437911" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="12" lineNum="15" parent="globals/MyWatchView" pc="268437915" symbol="initialize"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="13" lineNum="19" parent="globals/MyWatchView" pc="268437934" symbol="onLayout"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="13" lineNum="20" parent="globals/MyWatchView" pc="268437938" symbol="onLayout"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="14" lineNum="26" parent="globals/MyWatchView" pc="268437976" symbol="onShow"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="30" parent="globals/MyWatchView" pc="268437981" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="31" parent="globals/MyWatchView" pc="268437985" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="32" parent="globals/MyWatchView" pc="268437998" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="35" parent="globals/MyWatchView" pc="268438011" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="36" parent="globals/MyWatchView" pc="268438018" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="37" parent="globals/MyWatchView" pc="268438035" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="38" parent="globals/MyWatchView" pc="268438045" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="39" parent="globals/MyWatchView" pc="268438092" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="43" parent="globals/MyWatchView" pc="268438105" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="44" parent="globals/MyWatchView" pc="268438123" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="48" parent="globals/MyWatchView" pc="268438147" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="49" parent="globals/MyWatchView" pc="268438171" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="50" parent="globals/MyWatchView" pc="268438221" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="51" parent="globals/MyWatchView" pc="268438244" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="53" parent="globals/MyWatchView" pc="268438272" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="54" parent="globals/MyWatchView" pc="268438296" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="55" parent="globals/MyWatchView" pc="268438346" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="56" parent="globals/MyWatchView" pc="268438369" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="58" parent="globals/MyWatchView" pc="268438397" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="60" parent="globals/MyWatchView" pc="268438441" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="61" parent="globals/MyWatchView" pc="268438605" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="62" parent="globals/MyWatchView" pc="268438629" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="63" parent="globals/MyWatchView" pc="268438679" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="64" parent="globals/MyWatchView" pc="268438708" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="66" parent="globals/MyWatchView" pc="268438736" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="67" parent="globals/MyWatchView" pc="268438760" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="68" parent="globals/MyWatchView" pc="268438810" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="69" parent="globals/MyWatchView" pc="268438839" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="71" parent="globals/MyWatchView" pc="268438867" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="72" parent="globals/MyWatchView" pc="268438966" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="73" parent="globals/MyWatchView" pc="268438990" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="74" parent="globals/MyWatchView" pc="268439040" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="75" parent="globals/MyWatchView" pc="268439069" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="80" parent="globals/MyWatchView" pc="268439097" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="81" parent="globals/MyWatchView" pc="268439120" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="82" parent="globals/MyWatchView" pc="268439172" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="83" parent="globals/MyWatchView" pc="268439196" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="84" parent="globals/MyWatchView" pc="268439246" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="85" parent="globals/MyWatchView" pc="268439260" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="88" parent="globals/MyWatchView" pc="268439288" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="92" parent="globals/MyWatchView" pc="268439407" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="93" parent="globals/MyWatchView" pc="268439441" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="94" parent="globals/MyWatchView" pc="268439475" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="15" lineNum="97" parent="globals/MyWatchView" pc="268439509" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="16" lineNum="103" parent="globals/MyWatchView" pc="268439530" symbol="onHide"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="17" lineNum="107" parent="globals/MyWatchView" pc="268439535" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="18" lineNum="111" parent="globals/MyWatchView" pc="268439540" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="114" parent="globals/MyWatchView" pc="268439545" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="115" parent="globals/MyWatchView" pc="268439549" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="116" parent="globals/MyWatchView" pc="268439690" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="117" parent="globals/MyWatchView" pc="268439697" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="118" parent="globals/MyWatchView" pc="268439795" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="119" parent="globals/MyWatchView" pc="268439941" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="120" parent="globals/MyWatchView" pc="268439961" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="122" parent="globals/MyWatchView" pc="268439965" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="123" parent="globals/MyWatchView" pc="268439976" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="124" parent="globals/MyWatchView" pc="268440003" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="125" parent="globals/MyWatchView" pc="268440092" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="126" parent="globals/MyWatchView" pc="268440115" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="127" parent="globals/MyWatchView" pc="268440122" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="128" parent="globals/MyWatchView" pc="268440149" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="129" parent="globals/MyWatchView" pc="268440238" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="130" parent="globals/MyWatchView" pc="268440261" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="131" parent="globals/MyWatchView" pc="268440272" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="132" parent="globals/MyWatchView" pc="268440299" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="133" parent="globals/MyWatchView" pc="268440388" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="134" parent="globals/MyWatchView" pc="268440417" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="135" parent="globals/MyWatchView" pc="268440428" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="136" parent="globals/MyWatchView" pc="268440455" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="137" parent="globals/MyWatchView" pc="268440544" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="138" parent="globals/MyWatchView" pc="268440573" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="139" parent="globals/MyWatchView" pc="268440584" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="140" parent="globals/MyWatchView" pc="268440611" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="141" parent="globals/MyWatchView" pc="268440700" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="142" parent="globals/MyWatchView" pc="268440729" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="143" parent="globals/MyWatchView" pc="268440740" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="144" parent="globals/MyWatchView" pc="268440767" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="145" parent="globals/MyWatchView" pc="268440856" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="146" parent="globals/MyWatchView" pc="268440885" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="147" parent="globals/MyWatchView" pc="268440896" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="148" parent="globals/MyWatchView" pc="268440923" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="149" parent="globals/MyWatchView" pc="268441012" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="150" parent="globals/MyWatchView" pc="268441041" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="151" parent="globals/MyWatchView" pc="268441052" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="152" parent="globals/MyWatchView" pc="268441079" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="153" parent="globals/MyWatchView" pc="268441168" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="155" parent="globals/MyWatchView" pc="268441197" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="156" parent="globals/MyWatchView" pc="268441224" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="19" lineNum="157" parent="globals/MyWatchView" pc="268441313" symbol="addData"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="20" lineNum="10" parent="globals/MyWatchView" pc="268443124" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="20" lineNum="12" parent="globals/MyWatchView" pc="268443142" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\hrusk\\Documents\\Programming\\IQ\\MyWatch\\source\\MyWatchView.mc" id="20" lineNum="10" parent="globals/MyWatchView" pc="268443124" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="2" parent="globals/Rez/Drawables" pc="268443301" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="6" parent="globals/Rez/Fonts" pc="268443303" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="8" parent="globals/Rez/JsonData" pc="268443305" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="17" parent="globals/Rez/Layouts" pc="268441334" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="19" parent="globals/Rez/Layouts" pc="268441346" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="20" parent="globals/Rez/Layouts" pc="268441370" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="21" parent="globals/Rez/Layouts" pc="268441503" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="22" parent="globals/Rez/Layouts" pc="268441636" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" parent="globals/Rez/Layouts" pc="268441769" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="24" parent="globals/Rez/Layouts" pc="268441902" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="25" parent="globals/Rez/Layouts" pc="268442035" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="26" parent="globals/Rez/Layouts" pc="268442168" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="27" parent="globals/Rez/Layouts" pc="268442301" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="28" parent="globals/Rez/Layouts" pc="268442434" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="29" parent="globals/Rez/Layouts" pc="268442567" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="30" parent="globals/Rez/Layouts" pc="268442700" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="31" parent="globals/Rez/Layouts" pc="268442833" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="33" parent="globals/Rez/Layouts" pc="268442966" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="10" parent="globals/Rez/Layouts" pc="268443304" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="38" parent="globals/Rez/Menus" pc="268443302" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="40" parent="globals/Rez/Strings" pc="268443306" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268443277" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268443277" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="23" symbol="none"/>
-        <entry field="true" id="33" symbol="HexOneColorTitle"/>
-        <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="19" symbol="HexThreeDataColorTitle"/>
-        <entry field="true" id="30" symbol="HexOneDataTitle"/>
-        <entry field="true" id="22" symbol="HexThreeColorTitle"/>
-        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="8388645" module="true" symbol="Time"/>
-        <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="34" symbol="MinuteColorTitle"/>
-        <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="8389068" method="true" symbol="draw"/>
-        <entry id="8389377" method="true" symbol="onExitSleep"/>
-        <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="8389123" method="true" symbol="onShow"/>
-        <entry id="8388924" module="true" symbol="Gregorian"/>
-        <entry id="9" object="true" symbol="MyWatchApp"/>
-        <entry field="true" id="8388737" symbol="calories"/>
-        <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="26" symbol="AppName"/>
-        <entry id="10" object="true" symbol="MyWatchView"/>
-        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
         <entry field="true" id="29" symbol="DayColorTitle"/>
-        <entry field="true" id="32" symbol="HexTwoColorTitle"/>
-        <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="28" symbol="BatteryColorTitle"/>
-        <entry field="true" id="15" symbol="LauncherIcon"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry id="12" method="true" symbol="addData"/>
+        <entry field="true" id="8388737" symbol="calories"/>
+        <entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="18" symbol="HexTwoDataColorTitle"/>
+        <entry field="true" id="33" symbol="HexOneColorTitle"/>
+        <entry field="true" id="26" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="11" symbol="hexSpacing"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="16" symbol="HexTwoDataTitle"/>
+        <entry field="true" id="8388912" symbol="steps"/>
+        <entry field="true" id="30" symbol="HexOneDataTitle"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="22" symbol="HexThreeColorTitle"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry field="true" id="8388747" symbol="currentHeartRate"/>
         <entry id="8389348" symbol="font"/>
-        <entry id="8389347" symbol="color"/>
-        <entry field="true" id="24" symbol="DayOfWeekColorTitle"/>
-        <entry field="true" id="16" symbol="HexTwoDataTitle"/>
-        <entry field="true" id="17" symbol="BackgroundColorTitle"/>
-        <entry field="true" id="25" symbol="HexThreeDataTitle"/>
-        <entry id="13" module="true" symbol="Layouts"/>
-        <entry field="true" id="8388912" symbol="steps"/>
-        <entry id="8389125" method="true" symbol="onHide"/>
-        <entry field="true" id="11" symbol="hexSpacing"/>
-        <entry field="true" id="21" symbol="MilitaryFormatTitle"/>
-        <entry field="true" id="8389584" symbol="notificationCount"/>
-        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="20" symbol="HexOneDataColorTitle"/>
         <entry id="14" module="true" symbol="Menus"/>
-        <entry field="true" id="31" symbol="MonthColorTitle"/>
-        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="18" symbol="HexTwoDataColorTitle"/>
-        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
-        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="20" symbol="HexOneDataColorTitle"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="19" symbol="HexThreeDataColorTitle"/>
+        <entry field="true" id="23" symbol="none"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="10" object="true" symbol="MyWatchView"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="15" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="12" method="true" symbol="addData"/>
+        <entry id="9" object="true" symbol="MyWatchApp"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="28" symbol="BatteryColorTitle"/>
+        <entry field="true" id="17" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
         <entry field="true" id="27" symbol="HourColorTitle"/>
+        <entry field="true" id="24" symbol="DayOfWeekColorTitle"/>
+        <entry field="true" id="8388747" symbol="currentHeartRate"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="31" symbol="MonthColorTitle"/>
+        <entry field="true" id="25" symbol="HexThreeDataTitle"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="32" symbol="HexTwoColorTitle"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry field="true" id="34" symbol="MinuteColorTitle"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="8389584" symbol="notificationCount"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
-        <entry endPc="268437537" name="dc" stackId="1" startPc="268435502"/>
-        <entry endPc="268437565" name="state" stackId="1" startPc="268437560"/>
-        <entry endPc="268437570" name="state" stackId="1" startPc="268437565"/>
-        <entry endPc="268437698" name="dc" stackId="1" startPc="268437656"/>
-        <entry endPc="268438985" name="i" stackId="19" startPc="268438953"/>
-        <entry endPc="268439026" name="viewHour" stackId="7" startPc="268437707"/>
-        <entry endPc="268439026" name="batStr" stackId="16" startPc="268437707"/>
-        <entry endPc="268439026" name="viewDayOfWeek" stackId="14" startPc="268437707"/>
-        <entry endPc="268439026" name="monthAbr" stackId="10" startPc="268437707"/>
-        <entry endPc="268439026" name="viewDay" stackId="12" startPc="268437707"/>
-        <entry endPc="268439026" name="clockTime" stackId="3" startPc="268437707"/>
-        <entry endPc="268439026" name="timeFormat" stackId="2" startPc="268437707"/>
-        <entry endPc="268439026" name="hourString" stackId="5" startPc="268437707"/>
-        <entry endPc="268439026" name="viewPower" stackId="17" startPc="268437707"/>
-        <entry endPc="268439026" name="minuteString" stackId="6" startPc="268437707"/>
-        <entry endPc="268439026" name="hexDataSettings" stackId="18" startPc="268437707"/>
-        <entry endPc="268439026" name="today" stackId="9" startPc="268437707"/>
-        <entry endPc="268439026" name="dayAbr" stackId="13" startPc="268437707"/>
-        <entry endPc="268439026" name="hours" stackId="4" startPc="268437707"/>
-        <entry endPc="268439026" name="viewMinute" stackId="8" startPc="268437707"/>
-        <entry endPc="268439026" name="viewMonth" stackId="11" startPc="268437707"/>
-        <entry endPc="268439026" name="pwr" stackId="15" startPc="268437707"/>
-        <entry endPc="268439027" name="dc" stackId="1" startPc="268437703"/>
-        <entry endPc="268440574" name="viewThing" stackId="5" startPc="268439046"/>
-        <entry endPc="268440574" name="dataThing" stackId="4" startPc="268439046"/>
-        <entry endPc="268440574" name="dataTypes" stackId="3" startPc="268439046"/>
-        <entry endPc="268440574" name="thingColors" stackId="6" startPc="268439046"/>
-        <entry endPc="268440575" name="dataChoice" stackId="2" startPc="268439042"/>
-        <entry endPc="268440575" name="hex" stackId="1" startPc="268439042"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexOneDataLabel" stackId="8" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexOneLabel" stackId="5" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexTwoDataLabel" stackId="9" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HourLabel" stackId="3" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexThreeLabel" stackId="7" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexTwoLabel" stackId="6" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_DayLabel" stackId="12" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_HexThreeDataLabel" stackId="10" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_custom_drawable_18643255597807723851" stackId="2" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_DayOfWeekLabel" stackId="13" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_MonthLabel" stackId="11" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_BatteryLabel" stackId="14" startPc="268440587"/>
-        <entry endPc="268442344" name="rez_cmp_local_text_MinuteLabel" stackId="4" startPc="268440587"/>
-        <entry endPc="268442345" name="dc" stackId="1" startPc="268440575"/>
+        <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435596" name="dictionary" stackId="1" startPc="268435556"/>
+        <entry endPc="268437909" name="w" stackId="2" startPc="268435602"/>
+        <entry endPc="268437909" name="h" stackId="3" startPc="268435602"/>
+        <entry arg="true" endPc="268437910" name="dc" stackId="1" startPc="268435598"/>
+        <entry arg="true" endPc="268437975" name="dc" stackId="1" startPc="268437934"/>
+        <entry endPc="268439528" name="minuteString" stackId="8" startPc="268437985"/>
+        <entry endPc="268439528" name="pwr" stackId="17" startPc="268437985"/>
+        <entry endPc="268439528" name="viewMinute" stackId="10" startPc="268437985"/>
+        <entry endPc="268439528" name="batStr" stackId="18" startPc="268437985"/>
+        <entry endPc="268439528" name="timeFormat" stackId="4" startPc="268437985"/>
+        <entry endPc="268439528" name="hexDataSettings" stackId="20" startPc="268437985"/>
+        <entry endPc="268439528" name="monthAbr" stackId="12" startPc="268437985"/>
+        <entry endPc="268439528" name="viewDayOfWeek" stackId="16" startPc="268437985"/>
+        <entry endPc="268439528" name="hourString" stackId="7" startPc="268437985"/>
+        <entry endPc="268439528" name="viewPower" stackId="19" startPc="268437985"/>
+        <entry endPc="268439528" name="w" stackId="2" startPc="268437985"/>
+        <entry endPc="268439528" name="clockTime" stackId="5" startPc="268437985"/>
+        <entry endPc="268439528" name="hours" stackId="6" startPc="268437985"/>
+        <entry endPc="268439528" name="h" stackId="3" startPc="268437985"/>
+        <entry endPc="268439528" name="viewDay" stackId="14" startPc="268437985"/>
+        <entry endPc="268439528" name="today" stackId="11" startPc="268437985"/>
+        <entry endPc="268439528" name="viewMonth" stackId="13" startPc="268437985"/>
+        <entry endPc="268439528" name="viewHour" stackId="9" startPc="268437985"/>
+        <entry endPc="268439528" name="dayAbr" stackId="15" startPc="268437985"/>
+        <entry arg="true" endPc="268439529" name="dc" stackId="1" startPc="268437981"/>
+        <entry endPc="268441332" name="viewThing" stackId="8" startPc="268439549"/>
+        <entry endPc="268441332" name="dataThing" stackId="7" startPc="268439549"/>
+        <entry endPc="268441332" name="dataTypes" stackId="6" startPc="268439549"/>
+        <entry endPc="268441332" name="thingColors" stackId="9" startPc="268439549"/>
+        <entry arg="true" endPc="268441333" name="w" stackId="3" startPc="268439545"/>
+        <entry arg="true" endPc="268441333" name="temp" stackId="5" startPc="268439545"/>
+        <entry arg="true" endPc="268441333" name="dataChoice" stackId="2" startPc="268439545"/>
+        <entry arg="true" endPc="268441333" name="h" stackId="4" startPc="268439545"/>
+        <entry arg="true" endPc="268441333" name="hex" stackId="1" startPc="268439545"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexOneDataLabel" stackId="8" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_custom_drawable_83681537693936130172" stackId="2" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexOneLabel" stackId="5" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexTwoDataLabel" stackId="9" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HourLabel" stackId="3" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexThreeLabel" stackId="7" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexTwoLabel" stackId="6" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_DayLabel" stackId="12" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_HexThreeDataLabel" stackId="10" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_DayOfWeekLabel" stackId="13" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_MonthLabel" stackId="11" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_BatteryLabel" stackId="14" startPc="268441346"/>
+        <entry endPc="268443102" name="rez_cmp_local_text_MinuteLabel" stackId="4" startPc="268441346"/>
+        <entry arg="true" endPc="268443103" name="dc" stackId="1" startPc="268441334"/>
     </localVars>
-    <annotations/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexTwoDataTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexTwoDataColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexThreeDataColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexOneDataColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="notificationCount"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexThreeColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="none"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="calories"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DayOfWeekColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexThreeDataTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="steps"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HourColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DayColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexOneDataTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MonthColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexTwoColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HexOneColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MinuteColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="currentHeartRate"/>
+    </annotations>
     <dataEntryOffsetMappings>
-        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry offset="213" parentId="globals" symbolId="MyWatchView" type="class"/>
-        <dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="442" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="473" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="504" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="543" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="574" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="789" parentId="globals" symbolId="MyWatchApp" type="class"/>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/MyWatchView" offset="213" parentId="globals" symbolId="MyWatchView" type="class"/>
+        <dataEntry label="globals/Rez" offset="324" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="442" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="473" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="504" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="543" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="574" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/MyWatchApp" offset="789" parentId="globals" symbolId="MyWatchApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" name="initialize" parent="Background">
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="MyWatchApp" startPc="268435456">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="draw" parent="Background">
-            <param id="dc"/>
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="MyWatchApp">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="onStart" parent="MyWatchApp">
+        <functionEntry accessMode="public" endPc="268435483" name="onStart" parent="MyWatchApp" startPc="268435479">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onStop" parent="MyWatchApp">
+        <functionEntry accessMode="public" endPc="268435488" name="onStop" parent="MyWatchApp" startPc="268435484">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="getInitialView" parent="MyWatchApp">
+        <functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="MyWatchApp" startPc="268435489">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onSettingsChanged" parent="MyWatchApp">
+        <functionEntry accessMode="public" endPc="268435551" name="onSettingsChanged" parent="MyWatchApp" startPc="268435531">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="MyWatchView">
+        <functionEntry accessMode="protected" endPc="268443325" name="&lt;init&gt;" parent="MyWatchApp" startPc="268443307">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onLayout" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268435597" name="initialize" parent="Background" startPc="268435552">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437910" name="draw" parent="Background" startPc="268435598">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onShow" parent="MyWatchView">
+        <functionEntry accessMode="protected" endPc="268443123" name="&lt;init&gt;" parent="Background" startPc="268443105">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268437933" name="initialize" parent="MyWatchView" startPc="268437911">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437975" name="onLayout" parent="MyWatchView" startPc="268437934">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onHide" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268437980" name="onShow" parent="MyWatchView" startPc="268437976">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onExitSleep" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268439529" name="onUpdate" parent="MyWatchView" startPc="268437981">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onEnterSleep" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268439534" name="onHide" parent="MyWatchView" startPc="268439530">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="addData" parent="MyWatchView">
+        <functionEntry accessMode="public" endPc="268439539" name="onExitSleep" parent="MyWatchView" startPc="268439535">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439544" name="onEnterSleep" parent="MyWatchView" startPc="268439540">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441333" name="addData" parent="MyWatchView" startPc="268439545">
             <param id="hex"/>
             <param id="dataChoice"/>
+            <param id="w"/>
+            <param id="h"/>
+            <param id="temp"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+        <functionEntry accessMode="protected" endPc="268443276" name="&lt;init&gt;" parent="MyWatchView" startPc="268443124">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443301" name="&lt;init&gt;" parent="Drawables" startPc="268443301">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443303" name="&lt;init&gt;" parent="Fonts" startPc="268443303">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443305" name="&lt;init&gt;" parent="JsonData" startPc="268443305">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268443103" name="WatchFace" parent="Layouts" startPc="268441334">
             <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443304" name="&lt;init&gt;" parent="Layouts" startPc="268443304">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443302" name="&lt;init&gt;" parent="Menus" startPc="268443302">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443306" name="&lt;init&gt;" parent="Strings" startPc="268443306">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268443300" name="&lt;init&gt;" parent="Rez" startPc="268443277">
             <documentation/>
         </functionEntry>
     </functions>
